@@ -11,7 +11,6 @@ I'm Devdeep Ghosh, a passionate Front-end Web Developer and Tech Enthusiast base
 
 ## What I'm Working On
 
-- 🛠️ Currently working on a top-secret project that blends creativity and technology.
 - 💼 GDC Engineering Fellow at Pupilfirst Private Limited, contributing to the CARE project supporting the 10BedICU initiative.
 
 ## My Projects
