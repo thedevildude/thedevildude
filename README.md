@@ -4,7 +4,7 @@ I'm Devdeep Ghosh, a passionate Full-stack Developer and Tech Enthusiast based i
 
 ## About Me
 
-- Final year student pursuing a B.Tech in Computer Science and Engineering at UEM Jaipur.
+- B.Tech Graduate in Computer Science and Engineering and minor in Web Developmnt from UEM Jaipur.
 - I'm always learning and exploring new technologies to stay ahead in the dynamic tech world.
 
 ## What I'm Working On
