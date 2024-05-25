@@ -13,9 +13,9 @@ I'm Devdeep Ghosh, a passionate Full-stack Developer and Tech Enthusiast based i
 
 ## My Projects
 
-- 📋 [Kanban Project Task Management](https://github.com/thedevildude/kanban_project) - A Jira-like project management application with a touch of magic!
-- 🗳️ [Online Voting Platform](https://github.com/thedevildude/wd-online-voting) - ExpressJS and EJS-based platform for secure and efficient voting.
 - 🏥 [DoctorWeb3](https://github.com/thedevildude/DoctorWeb3) - Decentralized Medical Reports Sharing Platform using React.js and Ethereum Virtual Machine
+- 🗳️ [Online Voting Platform](https://github.com/thedevildude/wd-online-voting) - ExpressJS and EJS-based platform for secure and efficient voting.
+- 📋 [Kanban Project Task Management](https://github.com/thedevildude/kanban_project) - A Jira-like project management application with a touch of magic!
 
 ## Let's Connect 🤝
 
