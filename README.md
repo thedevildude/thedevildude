@@ -7,6 +7,13 @@ I'm Devdeep Ghosh, a passionate Full-stack Developer and Tech Enthusiast based i
 - B.Tech Graduate in Computer Science and Engineering and minor in Web Developmnt from UEM Jaipur.
 - I'm always learning and exploring new technologies to stay ahead in the dynamic tech world.
 
+## Skills
+
+- Languages: JavaScript, TypeScript, Java, Solidity, SQL (Postgres), HTML/CSS, Python
+- Frameworks and Libraries: React.js, Next.js, Angular, React-Native, Electron.js, Node.js, Express.js, Redux Toolkit,
+- Zustand, Jest, TailwindCSS, Sequelize ORM, Prisma ORM, Django, SCSS/SASS
+- Developer Tools and Technology: Git, Docker, AWS, Microsoft Azure, Babel, CI/CD, Github workflow
+
 ## What I'm Working On
 
 - 💼 SDE 1 at Capital Compute - Design and implement complete project architectures, building end-to-end systems to meet diverse client
