@@ -9,10 +9,16 @@ I'm Devdeep Ghosh, a passionate Full-stack Developer and Tech Enthusiast based i
 
 ## What I'm Working On
 
+- 💼 SDE 1 at Capital Compute - Design and implement complete project architectures, building end-to-end systems to meet diverse client
+requirements.
+
+## What I've Worked On
+
 - 💼 GDC Engineering Fellow at Pupilfirst Private Limited, contributing to the CARE project supporting the 10BedICU initiative.
 
 ## My Projects
 
+- 💻 [Boom Screen Record](https://freeboomshare.com) - A powerful, AI-enhanced alternative to Loom — completely free!
 - 🏥 [DoctorWeb3](https://github.com/thedevildude/DoctorWeb3) - Decentralized Medical Reports Sharing Platform using React.js and Ethereum Virtual Machine
 - 🗳️ [Online Voting Platform](https://github.com/thedevildude/wd-online-voting) - ExpressJS and EJS-based platform for secure and efficient voting.
 - 📋 [Kanban Project Task Management](https://github.com/thedevildude/kanban_project) - A Jira-like project management application with a touch of magic!
